@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a undergraduate student from CUHKsz. 
+Greetings! I am Zhenglin Wan, an undergraduate student from CUHKsz. You can find my CV at [CV](https://github.com/Carlos133386/Carlos133386.github.io/raw/main/cV%20(2).pdf)
 
-My research interest includes Reinforcement Learning, Probabilistic machine learning, LLM agents and AI4Science. I am co-founder of Metasequoia Intelligence, located in Shenzhen, China.
+My research interest
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
