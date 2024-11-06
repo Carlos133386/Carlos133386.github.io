@@ -35,7 +35,7 @@ During high school, I was fortunate to receive first prize in the Chinese High S
 
 During my undergraduate, I am lucky to work with Dr. Song and co-found one enterprise named "Metasequoia Intelligence" with him as the technical collaborator, driven by my research interest. Our aim is to utilizing the power of LLM agents to integrate data querying, data process, data visualization and intelligent decision making, thus providing comprehensive AI empowerment services for industry purposes.
 
-I am actively seeking interesting research opportunities and Ph.D. positions starting in Spring/Fall 2025. If you are looking for a dedicated and self-motivated candidate, please DO contact me at vanzl3386@gmail.com or carlos@metaseq.ai !
+I am actively seeking interesting research opportunities and Ph.D. positions starting in Fall 2025. If you are looking for a dedicated and self-motivated candidate, please DO contact me at vanzl3386@gmail.com or carlos@metaseq.ai !
 # 🔥 News
 - *2024.10*  &nbsp;🎉🎉 Our paper *Hierarchical Spatial-Temporal Graph-Enhanced Model for Map-Matching* accepted by *Australasian Database Conference 2025*.
 - *2024.10*  &nbsp;🎉🎉 I have ended my memorable attachment at [Centre for Frontier AI Research](https://www.a-star.edu.sg/cfar), Agency for Science, Technology and Research [(A*STAR)](https://www.a-star.edu.sg/) at Singapore, serving as an intern researcher.
