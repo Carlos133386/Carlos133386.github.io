@@ -36,6 +36,8 @@ Both RL and IL represent purely data-driven approaches to agent learning and dec
 
 I have observed that many real-world problems in fields such as the environment, transportation, and urban planning can be modeled as decision-making processes. I am eager to adopt this novel perspective and apply it to offer fresh insights into these complex, multidisciplinary problems.
 
+
+I am actively seeking interesting research opportunities and Ph.D. positions starting in Spring/Fall 2025. If you are looking for a dedicated and self-motivated candidate, please DO contact me at vanzl3386@gmail.com or carlos@metaseq.ai !
 # 🔥 News
 - *2024.10*  &nbsp;🎉🎉 Our paper *Hierarchical Spatial-Temporal Graph-Enhanced Model for Map-Matching* accepted by *Australasian Database Conference 2025*.
 - *2024.10*  &nbsp;🎉🎉 I have ended my memorable attachment at [Centre for Frontier AI Research](https://www.a-star.edu.sg/cfar), Agency for Science, Technology and Research [(A*STAR)](https://www.a-star.edu.sg/) at Singapore, serving as an intern researcher.
@@ -195,3 +197,6 @@ Graph-based Reinforcement learning Approach for influential Node Detection in ai
 # 💻 Internships
 - *2023.07 - 2024.01*, Machine Learning Algorithm Engineerer, [HUIYINTONG]([https://github.com/](http://www.hytii.cn/index.html)), China.  
 - *2024.07 - 2024.10*, Intern Researcher, Agency for Science, Technology and Research [A*STAR](https://www.a-star.edu.sg/), Singapore
+
+# Personal Life
+For the time I am not doing research, I am a music enthusiast: I have been playing guitar for ten years and began learning to play the piano and electronic piano independently when I was 15 years old. During my undergraduate years, I established a band named "Minor Blue" and performed multiple times on campus, which is one of the most memorable moments of my campus life. Additionally, I sometimes play video games, like League of Legends and Genshin Impact, to relax. I also enjoy reading literature on Buddhism and Daoism (in Chinese culture), such as the Diamond Sutra (in Chinese "金刚经") and the Tao Te Ching (in Chinese "道德经"), because the ideas behind them really attract me and largely align with my understanding of the world.
