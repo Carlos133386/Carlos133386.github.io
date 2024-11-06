@@ -115,7 +115,7 @@ Graph-based Reinforcement learning Approach for influential Node Detection in ai
 
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal Under Review</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal Under Review</div><img src='personal_page_sources/AlphaAir/show.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LLM-Based Air Quality Analysis and Decision-Making Agent]()
