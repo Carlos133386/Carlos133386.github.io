@@ -45,7 +45,7 @@ I am actively seeking interesting research opportunities and Ph.D. positions sta
 - *2023.12*: &nbsp;🎉🎉 I co-founded one enterprise named "Metasequoia Intelligence" with [Dr. Jun Song](https://scholars.hkbu.edu.hk/en/persons/JUNSONG) from HKBU, serving as technical collaborator.
 
 
-# 📝 Publications
+# 📝 Publications and Academic Projects
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Conference Under Review</div><img src='personal_page_sources/QD-IL/show.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
