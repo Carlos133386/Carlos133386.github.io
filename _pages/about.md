@@ -180,12 +180,12 @@ Graph-based Reinforcement learning Approach for influential Node Detection in ai
 - *2021.09 - 2025.06 (now)*, The Chinese University of Hong Kong, Shenzhen 
 
 # 💬 Press/Media
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Geophysical Research - Atmospheres</div><img src='personal_page_sources/white_paper.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">White Paper</div><img src='personal_page_sources/white_paper.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
 - The co-author of the first White Paper on Cross-Border Economic Large Language Model in Shenzhen, China.
-[深圳发布首个跨境经济大模型白皮书](https://www.sztv.com.cn/ysz/dsdb/szws/ssxw/80141762.shtml)
+[深圳卫视：深圳发布首个跨境经济大模型白皮书](https://www.sztv.com.cn/ysz/dsdb/szws/ssxw/80141762.shtml)
 
 </div>
 </div>
