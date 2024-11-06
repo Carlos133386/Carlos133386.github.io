@@ -22,12 +22,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Zhenglin Wan"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "The Chinese University of Hongkong (shenzhen)"
+  avatar           : "images/avator.png"
+  bio              : "The Chinese University of Hong Kong (shenzhen)"
   location         : "Shenzhen, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : "https://scholar.google.com/citations?user=q4DIjckAAAAJ"
   email            : "121090525@link.cuhk.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Carlos133386"# e.g., "github username"
+  github           : "Carlos133386"# e.g., "github username"#https://github.com/Carlos133386
   google_plus      :
   keybase          :
   instagram        :
