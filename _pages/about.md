@@ -64,7 +64,7 @@ I have observed that many real-world problems in fields such as the environment,
 
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Conference Under Review</div><img src=''personal_page_sources/POI/show.png'' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Conference Under Review</div><img src='personal_page_sources/POI/show.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Next-POI Recommendation via Multi-Objective Adversarial Imitation Learning
@@ -98,7 +98,7 @@ Graph-based Reinforcement learning Approach for influential Node Detection in ai
 
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Project</div><img src='personal_page_sources/Deep View/show.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Project</div><img src='personal_page_sources/Deep View/show2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DEEP VIEW: Mobile Inspection and Environmental Digital AI Supervision Service Project]()
