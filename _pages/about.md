@@ -47,84 +47,84 @@ I have observed that many real-world problems in fields such as the environment,
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Conference Under Review</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Quality Diversity Imitation Learning (Research Intern)](https://arxiv.org/abs/2410.06151)
+[Quality Diversity Imitation Learning](https://arxiv.org/abs/2410.06151)
 
 **Supervisor:** [Xingrui Yu](https://www.a-star.edu.sg/cfar/about-cfar/our-team/yu-xingrui), [David Bossens](https://www.a-star.edu.sg/cfar/about-cfar/our-team/david-bossens)  
 **Host:** [Centre for Frontier AI Research](https://www.a-star.edu.sg/cfar), A*STAR, Singapore  
 **Duration:** Jun. 2024 - Oct. 2024  
 
-- Proposed measure-level curiosity mechanism with measure-aware adversarial imitation to promote diverse behavior patterns, achieving near-expert performance in Walker2d and 2x expert performance in Humanoid (Mujoco).
-- Pioneered "learning from diverse behaviors" paradigm, enabling imitation learning algorithms to acquire a broad set of diverse skills from limited expert demonstrations. Submitted a paper to ICLR 2025 as the first author.
+- Imitation learning (IL) approaches succeed in fast adaptation for dozens of applications. However, traditional IL assumes the demonstrations comes from one specific expert policy, thus containing only one behavior pattern. This way may result in the lack of robustness of agent to deal with various and stochastic situations.
+- This work pioneers a new paradigm- learning from diverse behaviors. We proposed a novel quality-diversity imitation learning model to enable the agent to learn a broad set of skills from limited but diverse demonstrations. With multiple skills equipped, the agent can robustly deal with unseen and stochastic environment.
 
 </div>
 </div>
 
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Conference Under Review</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[POI Recommendation via Multi-Objective Imitation Learning](https://arxiv.org/abs/2410.06152)
+Next-POI Recommendation via Multi-Objective Adversarial Imitation Learning
 
 **Supervisor:** [Xingrui Yu](https://www.a-star.edu.sg/cfar/about-cfar/our-team/yu-xingrui)  
 **Host:** [Centre for Frontier AI Research](https://www.a-star.edu.sg/cfar), A*STAR, Singapore  
 **Duration:** Feb. 2024 - Aug. 2024  
 
-- Proposed a multi-objective imitation learning architecture with variational inference to address data sparsity and noise in POI data, utilizing adaptive graphs to capture spatial-temporal dependencies of POI sequences and user patterns.
-- Demonstrated that the proposed architecture outperformed the current state-of-the-art by 8%, and by 31% in extremely sparse data scenarios. Submitted a paper to AAAI 2025 as the first author.
+- We proposed a multi-objective imitation learning architecture with variational inference to address the notorious data sparsity and data noise issue in POI data, and we utilize a novel adaptive graphs to capture spatial-temporal dependencies of POI sequences and user patterns.
+- Demonstrated that the proposed architecture outperformed the current state-of-the-art by 8%, and by 31% in extremely sparse data scenarios.
 
 </div>
 </div>
 
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal Submission</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal Under Review</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Reinforcement Learning on Airport Delay Network](https://arxiv.org/abs/2410.06153)
+Graph-based Reinforcement learning Approach for influential Node Detection in airport delay networks
 
 **Supervisor:** [Jianfeng Mao](https://sds.cuhk.edu.cn/en/teacher/268)  
 **Host:** School of Data Science, CUHK (Shenzhen)  
 **Duration:** Jun. 2023 - Aug. 2024  
 
-- Developed a data-driven method combining graph representation learning with value-based reinforcement learning to identify key airports in delay networks, addressing low inference efficiency and cost-unaware management.
-- Independently implemented the model, achieving a 32% performance increase on the US airport delay dataset. Submitted a paper to *Transportation Research Part E: Logistics and Transportation Review*.
+- We developed a data-driven method combining graph representation learning with value-based reinforcement learning to identify key airports in delay networks, addressing the issue of low inference efficiency and cost-unaware management.
+- Empirically, we achieved a 32% performance increase on the US airport delay dataset. Submitted a paper to *Transportation Research Part E: Logistics and Transportation Review*.
 
 </div>
 </div>
 
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Consulting Project</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Project</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[DEEP VIEW: Mobile Inspection and Environmental Digital AI Supervision Service Project](https://arxiv.org/abs/2410.06154)
+[DEEP VIEW: Mobile Inspection and Environmental Digital AI Supervision Service Project]()
 
 **Project Consultant:** [Yike Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/yikeguo), Provost of HKUST  
 **Supervisor:** [Jun Song](https://scholars.hkbu.edu.hk/en/persons/JUNSONG), HKBU  
 **Duration:** Nov. 2023 - May. 2024  
 
-- Developed an automated environmental monitoring system using LLM agents and drones for comprehensive air quality monitoring.
-- Integrated multi-source data fusion, drone scheduling, and deep learning-based analysis into a unified system for real-time environmental oversight.
+- We developed an automated environmental monitoring system using LLM agents and drones for comprehensive air quality monitoring.
+- We integrated multi-source data fusion, drone scheduling, and deep learning-based analysis into a unified system for real-time environmental oversight.
 
 </div>
 </div>
 
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal Submission</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal Under Review</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[LLM-Based Air Quality Analysis and Decision-Making Agent](https://arxiv.org/abs/2410.06155)
+[LLM-Based Air Quality Analysis and Decision-Making Agent]()
 
 **Supervisor:** [Jun Song](https://scholars.hkbu.edu.hk/en/persons/JUNSONG), HKBU  
 **Duration:** Nov. 2023 - Jan. 2024  
 
-- Integrated air quality assessment into tools for an LLM-based agent using LangChain, enabling real-time interaction for efficient data analysis.
-- Completed a paper and submitted it to *Science Advances*.
+- We integrated air quality assessment into tools for an LLM-based agent using LangChain, enabling real-time interaction for efficient data analysis.
+- Submitted to *Science Advances*.
 
 </div>
 </div>
@@ -134,29 +134,28 @@ I have observed that many real-world problems in fields such as the environment,
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Patent Pending</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Unmanned Aerial Vehicle Pollutant Tracking using Optimization Methods](https://arxiv.org/abs/2410.06156)
+[Unmanned Aerial Vehicle Pollutant Tracking using Optimization Methods]()
 
 **Institution:** Metasequoia Intelligence  
 **Duration:** Nov. 2023 - Feb. 2024  
 
 - Developed optimization algorithms for UAV-based pollutant tracking, demonstrating notable improvements in accuracy and efficiency.
-- Conducted simulations validating the algorithms' effectiveness in real-world tracking, resulting in two patent applications.
+- Conducted simulations validating the algorithms' effectiveness in real-world tracking, resulting in two invention patents under review.
 
 </div>
 </div>
 
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal Submission</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Geophysical Research - Atmospheres</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Temporal-Spatial Data-Mining on Environmental Data](https://arxiv.org/abs/2410.06157)
+[Temporal-Spatial Data-Mining on Environmental Data](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2024JD041593)
 
 **Institution:** Metasequoia Intelligence  
 **Duration:** Feb. 2023 - May. 2023  
 
-- Used seq2seq models and gradient-boosting decision trees to improve prediction and imputation of environmental patterns, achieving state-of-the-art performance.
-- Engaged in implementing machine learning methodologies and conducted experiments, resulting in a publication in the *Journal of Geophysical Research - Atmospheres*.
+
 
 </div>
 </div>
