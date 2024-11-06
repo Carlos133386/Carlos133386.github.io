@@ -45,21 +45,122 @@ I have observed that many real-world problems in fields such as the environment,
 - *2023.12*: &nbsp;🎉🎉 I co-founded one enterprise named "Metasequoia Intelligence" with [Dr. Jun Song](https://scholars.hkbu.edu.hk/en/persons/JUNSONG) from HKBU, serving as technical collaborator.
 
 
-# 📝 Publications 
+# 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Quality Diversity Imitation Learning (Research Intern)](https://arxiv.org/abs/2410.06151)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Supervisor:** [Xingrui Yu](https://www.a-star.edu.sg/cfar/about-cfar/our-team/yu-xingrui), [David Bossens](https://www.a-star.edu.sg/cfar/about-cfar/our-team/david-bossens)  
+**Host:** [Centre for Frontier AI Research](https://www.a-star.edu.sg/cfar), A*STAR, Singapore  
+**Duration:** Jun. 2024 - Oct. 2024  
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Proposed measure-level curiosity mechanism with measure-aware adversarial imitation to promote diverse behavior patterns, achieving near-expert performance in Walker2d and 2x expert performance in Humanoid (Mujoco).
+- Pioneered "learning from diverse behaviors" paradigm, enabling imitation learning algorithms to acquire a broad set of diverse skills from limited expert demonstrations. Submitted a paper to ICLR 2025 as the first author.
+
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+---
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[POI Recommendation via Multi-Objective Imitation Learning](https://arxiv.org/abs/2410.06152)
+
+**Supervisor:** [Xingrui Yu](https://www.a-star.edu.sg/cfar/about-cfar/our-team/yu-xingrui)  
+**Host:** [Centre for Frontier AI Research](https://www.a-star.edu.sg/cfar), A*STAR, Singapore  
+**Duration:** Feb. 2024 - Aug. 2024  
+
+- Proposed a multi-objective imitation learning architecture with variational inference to address data sparsity and noise in POI data, utilizing adaptive graphs to capture spatial-temporal dependencies of POI sequences and user patterns.
+- Demonstrated that the proposed architecture outperformed the current state-of-the-art by 8%, and by 31% in extremely sparse data scenarios. Submitted a paper to AAAI 2025 as the first author.
+
+</div>
+</div>
+
+---
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal Submission</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Reinforcement Learning on Airport Delay Network](https://arxiv.org/abs/2410.06153)
+
+**Supervisor:** [Jianfeng Mao](https://sds.cuhk.edu.cn/en/teacher/268)  
+**Host:** School of Data Science, CUHK (Shenzhen)  
+**Duration:** Jun. 2023 - Aug. 2024  
+
+- Developed a data-driven method combining graph representation learning with value-based reinforcement learning to identify key airports in delay networks, addressing low inference efficiency and cost-unaware management.
+- Independently implemented the model, achieving a 32% performance increase on the US airport delay dataset. Submitted a paper to *Transportation Research Part E: Logistics and Transportation Review*.
+
+</div>
+</div>
+
+---
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Consulting Project</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DEEP VIEW: Mobile Inspection and Environmental Digital AI Supervision Service Project](https://arxiv.org/abs/2410.06154)
+
+**Project Consultant:** [Yike Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/yikeguo), Provost of HKUST  
+**Supervisor:** [Jun Song](https://scholars.hkbu.edu.hk/en/persons/JUNSONG), HKBU  
+**Duration:** Nov. 2023 - May. 2024  
+
+- Developed an automated environmental monitoring system using LLM agents and drones for comprehensive air quality monitoring.
+- Integrated multi-source data fusion, drone scheduling, and deep learning-based analysis into a unified system for real-time environmental oversight.
+
+</div>
+</div>
+
+---
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal Submission</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[LLM-Based Air Quality Analysis and Decision-Making Agent](https://arxiv.org/abs/2410.06155)
+
+**Supervisor:** [Jun Song](https://scholars.hkbu.edu.hk/en/persons/JUNSONG), HKBU  
+**Duration:** Nov. 2023 - Jan. 2024  
+
+- Integrated air quality assessment into tools for an LLM-based agent using LangChain, enabling real-time interaction for efficient data analysis.
+- Completed a paper and submitted it to *Science Advances*.
+
+</div>
+</div>
+
+---
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Patent Pending</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Unmanned Aerial Vehicle Pollutant Tracking using Optimization Methods](https://arxiv.org/abs/2410.06156)
+
+**Institution:** Metasequoia Intelligence  
+**Duration:** Nov. 2023 - Feb. 2024  
+
+- Developed optimization algorithms for UAV-based pollutant tracking, demonstrating notable improvements in accuracy and efficiency.
+- Conducted simulations validating the algorithms' effectiveness in real-world tracking, resulting in two patent applications.
+
+</div>
+</div>
+
+---
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal Submission</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Temporal-Spatial Data-Mining on Environmental Data](https://arxiv.org/abs/2410.06157)
+
+**Institution:** Metasequoia Intelligence  
+**Duration:** Feb. 2023 - May. 2023  
+
+- Used seq2seq models and gradient-boosting decision trees to improve prediction and imputation of environmental patterns, achieving state-of-the-art performance.
+- Engaged in implementing machine learning methodologies and conducted experiments, resulting in a publication in the *Journal of Geophysical Research - Atmospheres*.
+
+</div>
+</div>
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
