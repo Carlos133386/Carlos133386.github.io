@@ -187,6 +187,10 @@ Graph-based Reinforcement learning Approach for influential Node Detection in ai
 - The co-author of the first White Paper on Cross-Border Economic Large Language Model in Shenzhen, China.
 [深圳发布首个跨境经济大模型白皮书](https://www.sztv.com.cn/ysz/dsdb/szws/ssxw/80141762.shtml)
 
+</div>
+</div>
+
+---
 
 # 💻 Internships
 - *2023.07 - 2024.01*, Machine Learning Algorithm Engineerer, [HUIYINTONG]([https://github.com/](http://www.hytii.cn/index.html)), China.  
