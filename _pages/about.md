@@ -200,5 +200,6 @@ Graph-based Reinforcement learning Approach for influential Node Detection in ai
 - *2023.07 - 2024.01*, Machine Learning Algorithm Engineerer, [HUIYINTONG]([https://github.com/](http://www.hytii.cn/index.html)), China.  
 - *2024.07 - 2024.10*, Intern Researcher, Agency for Science, Technology and Research [A*STAR](https://www.a-star.edu.sg/), Singapore
 
+<span class='anchor' id='person'></span>
 # Personal Life
 For the time I am not doing research, I am a music enthusiast: I have been playing guitar for ten years and began learning to play the piano and electronic piano independently when I was 15 years old. During my undergraduate years, I established a band named "Minor Blue" and performed multiple times on campus, which is one of the most memorable moments of my campus life. Additionally, I sometimes play video games, like League of Legends and Genshin Impact, to relax. I also enjoy reading literature on Buddhism and Daoism (in Chinese culture), such as the Diamond Sutra (in Chinese "金刚经") and the Tao Te Ching (in Chinese "道德经"), because the ideas behind them really attract me, help me observe my thoughts and understand myself.
