@@ -21,18 +21,18 @@ Greetings! I am Zhenglin Wan, an undergraduate student from CUHKsz majoring in D
 
 During high school, I was fortunate to receive first prize in the Chinese High School Mathematics Olympics, which helped me develop a habit of independent learning. In my undergraduate studies, I achieved nearly all A grades (4.0/4.0) in my major-related courses (statistics, mathematics, and computer science). I often preferred independent study over traditional classes, which allowed me to save time and engage in challenging and interesting research projects. My primary research interests lie in:
 
-# Enabling agents to make intelligent decisions:
+## Enabling agents to make intelligent decisions:
 
-## Reinforcement Learning
+### Reinforcement Learning
 Reinforcement Learning (RL) allows agents to learn from their environment through trial and error (e.g., the remarkable AlphaGo, which defeated the Go master Shishi Li in 2016, was made possible by advancements in RL). However, in my view, many real-world tasks (e.g., picking up chopsticks from a table and grasping food) are far more complex for robots than Go. The state space for these "simple" tasks is significantly larger than that of Go in RL terms, and traditional RL algorithms (like PPO) require enormous sample sizes to converge, making learning extremely slow. This is surprising, given that humans naturally view these tasks as simple, thanks to our remarkable biological evolution. Therefore, we still face substantial challenges in enabling intelligent agents to perform even basic human tasks. My long-term goal is to explore novel, genuinely sample-efficient RL algorithms.
 
-## Imitation Learning
+### Imitation Learning
 Imitation Learning (IL) appears promising because it enables agents to mimic expert (or human) behavior directly, avoiding the aimless trial and error in the environment. Learning from demonstrations also aligns closely with human learning patterns. However, IL faces limitations when an agent encounters new scenarios not covered in the demonstrations. This issue mirrors a common question in human learning: “Can you generalize the knowledge from this lesson to solve new problems?” (In Chinese, this is known as “举一反三”). My interest lies in developing such robust IL approaches.
 
-## LLM Agent
+### LLM Agent
 Both RL and IL represent purely data-driven approaches to agent learning and decision-making. However, I believe that human learning involves a much more complex system that includes memory, reflection, and reasoning. Currently, there is a substantial gap between RL/IL approaches and genuine intelligence. Large Language Model (LLM) agents have shown promise in bridging this gap, given their remarkable inference capabilities. However, as LLMs are largely "black boxes," their potential limitations and capacities remain unknown, which continues to fuel my curiosity and future research.
 
-# Applications of intelligent agents:
+## Applications of intelligent agents:
 
 I have observed that many real-world problems in fields such as the environment, transportation, and urban planning can be modeled as decision-making processes. I am eager to adopt this novel perspective and apply it to offer fresh insights into these complex, multidisciplinary problems.
 
