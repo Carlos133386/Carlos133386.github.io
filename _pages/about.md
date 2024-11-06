@@ -47,7 +47,7 @@ I have observed that many real-world problems in fields such as the environment,
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Conference Under Review</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Conference Under Review</div><img src='personal_page_sources/QD-IL/show.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Quality Diversity Imitation Learning](https://arxiv.org/abs/2410.06151)
@@ -64,7 +64,7 @@ I have observed that many real-world problems in fields such as the environment,
 
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Conference Under Review</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Conference Under Review</div><img src=''personal_page_sources/POI/show.png'' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Next-POI Recommendation via Multi-Objective Adversarial Imitation Learning
@@ -81,7 +81,7 @@ Next-POI Recommendation via Multi-Objective Adversarial Imitation Learning
 
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal Under Review</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal Under Review</div><img src='personal_page_sources/GRAND/show.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Graph-based Reinforcement learning Approach for influential Node Detection in airport delay networks
@@ -98,7 +98,7 @@ Graph-based Reinforcement learning Approach for influential Node Detection in ai
 
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Project</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Project</div><img src='personal_page_sources/Deep View/show.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DEEP VIEW: Mobile Inspection and Environmental Digital AI Supervision Service Project]()
@@ -131,7 +131,7 @@ Graph-based Reinforcement learning Approach for influential Node Detection in ai
 
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Patent Pending</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Patent Pending</div><img src='personal_page_sources/UAV/show.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Unmanned Aerial Vehicle Pollutant Tracking using Optimization Methods]()
@@ -147,7 +147,7 @@ Graph-based Reinforcement learning Approach for influential Node Detection in ai
 
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Geophysical Research - Atmospheres</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Geophysical Research - Atmospheres</div><img src='personal_page_sources/NetGBM/show.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Temporal-Spatial Data-Mining on Environmental Data](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2024JD041593)
