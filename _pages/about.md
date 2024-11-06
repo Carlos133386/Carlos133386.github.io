@@ -37,6 +37,8 @@ During high school, I was fortunate to receive first prize in the Chinese High S
 During my undergraduate, I am lucky to work with [Dr. Jun Song](https://scholars.hkbu.edu.hk/en/persons/JUNSONG) and co-found one enterprise named "Metasequoia Intelligence" with him as the technical collaborator, driven by my research interest. Our aim is to utilizing the power of LLM agents to integrate data querying, data process, data visualization and intelligent decision making, thus providing comprehensive AI empowerment services for industry purposes.
 
 I am actively seeking interesting research opportunities and Ph.D. positions starting in Fall 2025. If you are looking for a dedicated and self-motivated candidate, please DO contact me at vanzl3386@gmail.com or carlos@metaseq.ai !
+
+<span class='anchor' id='news'></span>
 # 🔥 News
 - *2024.10*  &nbsp;🎉🎉 Our paper *Hierarchical Spatial-Temporal Graph-Enhanced Model for Map-Matching* accepted by *Australasian Database Conference 2025*.
 - *2024.10*  &nbsp;🎉🎉 I have ended my memorable attachment at [Centre for Frontier AI Research](https://www.a-star.edu.sg/cfar), Agency for Science, Technology and Research [(A*STAR)](https://www.a-star.edu.sg/) at Singapore, serving as an intern researcher.
@@ -45,7 +47,7 @@ I am actively seeking interesting research opportunities and Ph.D. positions sta
 - *2024.05*  &nbsp;🎉🎉 My invention patent *A Method, System, Terminal Device, and Storage Medium for Air Quality Spatial Inference* is officially granted! 
 - *2023.12*: &nbsp;🎉🎉 I co-founded one enterprise named "Metasequoia Intelligence" with [Dr. Jun Song](https://scholars.hkbu.edu.hk/en/persons/JUNSONG) from HKBU, serving as technical collaborator.
 
-
+<span class='anchor' id='publications-and-academic-projects'></span>
 # 📝 Publications and Academic Projects
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Conference Under Review</div><img src='personal_page_sources/QD-IL/show.png' alt="sym" width="100%"></div></div>
@@ -162,7 +164,7 @@ Graph-based Reinforcement learning Approach for influential Node Detection in ai
 </div>
 </div>
 
-
+<span class='anchor' id='honors-and-awards'></span>
 # 🎖 Honors and Awards
 - **Zhejiang Guolong Inspirational & Diligentia Bowen II Scholarship** (Outstanding Academic Performance)  
   *September 2021*
@@ -176,10 +178,11 @@ Graph-based Reinforcement learning Approach for influential Node Detection in ai
 - **Yearly Academic Scholarship: B Class** (Year GPA Top 3%)  
   *Third Academic Year: September 2024*
 
-
+<span class='anchor' id='educations'></span>
 # 📖 Educations
 - *2021.09 - 2025.06 (now)*, The Chinese University of Hong Kong, Shenzhen 
 
+<span class='anchor' id='press-media'></span>
 # 💬 Press/Media
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">White Paper</div><img src='personal_page_sources/white_paper.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -192,7 +195,7 @@ Graph-based Reinforcement learning Approach for influential Node Detection in ai
 </div>
 
 ---
-
+<span class='anchor' id='internships'></span>
 # 💻 Internships
 - *2023.07 - 2024.01*, Machine Learning Algorithm Engineerer, [HUIYINTONG]([https://github.com/](http://www.hytii.cn/index.html)), China.  
 - *2024.07 - 2024.10*, Intern Researcher, Agency for Science, Technology and Research [A*STAR](https://www.a-star.edu.sg/), Singapore
