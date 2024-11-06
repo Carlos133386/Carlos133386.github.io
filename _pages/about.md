@@ -38,7 +38,7 @@ I have observed that many real-world problems in fields such as the environment,
 
 # 🔥 News
 - *2024.10*  &nbsp;🎉🎉 Our paper *Hierarchical Spatial-Temporal Graph-Enhanced Model for Map-Matching* accepted by *Australasian Database Conference 2025*.
-- *2024.10*  &nbsp;🎉🎉 I have ended my memorable attachment at [Centre for Frontier AI Research](https://www.a-star.edu.sg/cfar), [Agency for Science, Technology and Research (A*STAR)](https://www.a-star.edu.sg/) at Singapore, serving as an intern researcher.
+- *2024.10*  &nbsp;🎉🎉 I have ended my memorable attachment at [Centre for Frontier AI Research](https://www.a-star.edu.sg/cfar), Agency for Science, Technology and Research [(A*STAR)](https://www.a-star.edu.sg/) at Singapore, serving as an intern researcher.
 - *2024.09*  &nbsp;🎉🎉 My invention patent *A Single-UAV Atmospheric Pollutant Source Tracing Method Based on Gradient Ascent and Physical Kinematics* is published.
 - *2024.05*  &nbsp;🎉🎉 My invention patent *A Method, System, Terminal Device, and Storage Medium for Air Quality Spatial Inference* is officially granted! 
 - *2024.09*: &nbsp;🎉🎉 Our paper [*Machine Learning-Driven Spatiotemporal Analysis of Ozone Exposure and Health Risks in China*](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2024JD041593) is accepted by *Journal of Geophysical Research - Atmospheres*.
@@ -53,7 +53,7 @@ I have observed that many real-world problems in fields such as the environment,
 [Quality Diversity Imitation Learning](https://arxiv.org/abs/2410.06151)
 
 **Supervisor:** [Xingrui Yu](https://www.a-star.edu.sg/cfar/about-cfar/our-team/yu-xingrui), [David Bossens](https://www.a-star.edu.sg/cfar/about-cfar/our-team/david-bossens)  
-**Host:** [Centre for Frontier AI Research](https://www.a-star.edu.sg/cfar), A*STAR, Singapore  
+**Host:** [Centre for Frontier AI Research](https://www.a-star.edu.sg/cfar), [A*STAR](https://www.a-star.edu.sg/), Singapore  
 **Duration:** Jun. 2024 - Oct. 2024  
 
 - Imitation learning (IL) approaches succeed in fast adaptation for dozens of applications. However, traditional IL assumes the demonstrations comes from one specific expert policy, thus containing only one behavior pattern. This way may result in the lack of robustness of agent to deal with various and stochastic situations.
@@ -157,21 +157,37 @@ Graph-based Reinforcement learning Approach for influential Node Detection in ai
 
 
 
+
 </div>
 </div>
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **Zhejiang Guolong Inspirational & Diligentia Bowen II Scholarship** (Outstanding Academic Performance)  
+  *September 2021*
+
+- **Yearly Dean List Award** (Outstanding Academic Performance)  
+  *Consecutive three years: September 2022 - September 2024*
+
+- **Yearly Academic Scholarship: C Class** (Year GPA Top 5%)  
+  *Second Academic Year: September 2023*
+
+- **Yearly Academic Scholarship: B Class** (Year GPA Top 3%)  
+  *Third Academic Year: September 2024*
+
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09 - 2025.06 (now)*, The Chinese University of Hong Kong, Shenzhen 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 Press/Media
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Geophysical Research - Atmospheres</div><img src='personal_page_sources/white_paper.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+- The co-author of the first White Paper on Cross-Border Economic Large Language Model in Shenzhen, China.
+[深圳发布首个跨境经济大模型白皮书](https://www.sztv.com.cn/ysz/dsdb/szws/ssxw/80141762.shtml)
+
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2023.07 - 2024.01*, Machine Learning Algorithm Engineerer, [HUIYINTONG]([https://github.com/](http://www.hytii.cn/index.html)), China.  
+- *2024.07 - 2024.10*, Intern Researcher, Agency for Science, Technology and Research [A*STAR](https://www.a-star.edu.sg/), Singapore
