@@ -24,11 +24,11 @@ During high school, I was fortunate to win the first prize in the Chinese High S
 
 ## Enabling agents to make intelligent decisions:
 
-- Reinforcement Learning (RL) allows agents to learn from their environment through trial and error (e.g., the remarkable AlphaGo, which defeated the Go master Shishi Li in 2016, was made possible by advancements in RL). However, in my view, many real-world tasks (e.g., picking up chopsticks from a table and grasping food) are far more complex for robots than Go. The state space for these "simple" tasks is significantly larger than that of Go in RL terms, and traditional RL algorithms (like PPO) require enormous sample sizes to converge, making learning extremely slow. This is surprising, given that humans naturally view these tasks as simple, thanks to our remarkable biological evolution. Therefore, we still face substantial challenges in enabling intelligent agents to perform even basic human tasks. My long-term goal is to explore novel, genuinely sample-efficient RL algorithms.
+- Reinforcement Learning (RL) allows agents to learn from their environment through trial and error (e.g., the remarkable AlphaGo, which defeated the Go master Shishi Li in 2016, was made possible by advancements in RL). However, in my view, many "simple" real-world tasks (e.g., picking up chopsticks from a table and grasping food) are actually far more complex for robots than Go. The state space for these "simple" tasks is actually very large in RL terms, and traditional RL algorithms (like PPO) require enormous amount of samples to converge, making learning extremely slow. This is counter-intuitive, since that humans naturally view these tasks as simple, thanks to our remarkable biological evolution. We still face substantial challenges in enabling intelligent agents learn to perform even basic human tasks in a efficient way. My long-term goal is to explore novel, genuinely sample-efficient RL algorithms to bridge this gap.
 
-- Imitation Learning (IL) appears promising because it enables agents to mimic expert (or human) behavior directly, avoiding the aimless trial and error in the environment. Learning from demonstrations also aligns closely with human learning patterns. However, IL faces limitations when an agent encounters new scenarios not covered in the demonstrations. This issue mirrors a common question in human learning: “Can you generalize the knowledge from this lesson to solve new problems?” (In Chinese, this is known as “举一反三”). My interest lies in developing such robust IL approaches.
+- Imitation Learning (IL) appears promising because it enables agents to mimic expert (or human) behavior directly, avoiding learning from scratch by aimless trial and error in the environment. Learning from demonstrations also aligns closely with human learning patterns. However, IL faces limitations when an agent encounters new scenarios not covered in the demonstrations. This issue mirrors a common question in human learning: “Can you generalize the knowledge from this lesson to solve new problems?” (In Chinese, this is known as “举一反三”). My interest lies in unlocking the power of IL to try to answer above question.
 
-- Both RL and IL represent purely data-driven approaches to agent learning and decision-making. However, I believe that human learning involves a much more complex system that includes memory, reflection, and reasoning. Currently, there is a substantial gap between RL/IL approaches and genuine intelligence. Large Language Model (LLM) agents have shown promise in bridging this gap, given their remarkable inference capabilities. However, as LLMs are largely "black boxes," their potential limitations and capacities remain unknown, which continues to fuel my curiosity and future research.
+- Both RL and IL represent purely data-driven approaches to agent learning and decision-making. However, I believe that human learning involves a much more complex system that includes memory, reflection, and reasoning and so on. Currently, there is a substantial gap between RL/IL approaches and genuine intelligence. Large Language Model (LLM) agents have shown promise in bridging this gap, given their remarkable inference capabilities. However, as LLMs are largely "black boxes," their potential limitations and capacities remain a great valuable research avenue, which continues to fuel my curiosity and future research.
 
 ## Applications of intelligent agents:
 
@@ -40,12 +40,12 @@ I am actively seeking interesting research opportunities and Ph.D. positions sta
 
 <span class='anchor' id='news'></span>
 # 🔥 News
-- *2024.10*  &nbsp;🎉🎉 Our paper *Hierarchical Spatial-Temporal Graph-Enhanced Model for Map-Matching* accepted by *Australasian Database Conference 2025*.
+- *2024.10*  &nbsp;🎉🎉 Our paper *Hierarchical Spatial-Temporal Graph-Enhanced Model for Map-Matching* accepted by *Australasian Database Conference 2025*, to be hold at Tokyo on 16 Dec.
 - *2024.10*  &nbsp;🎉🎉 I have ended my memorable attachment at [Centre for Frontier AI Research](https://www.a-star.edu.sg/cfar), Agency for Science, Technology and Research [(A*STAR)](https://www.a-star.edu.sg/) at Singapore, serving as an intern researcher.
 - *2024.09*: &nbsp;🎉🎉 Our paper [*Machine Learning-Driven Spatiotemporal Analysis of Ozone Exposure and Health Risks in China*](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2024JD041593) is accepted by *Journal of Geophysical Research - Atmospheres*.
 - *2024.09*  &nbsp;🎉🎉 My invention patent *A Single-UAV Atmospheric Pollutant Source Tracing Method Based on Gradient Ascent and Physical Kinematics* is published.
 - *2024.05*  &nbsp;🎉🎉 My invention patent *A Method, System, Terminal Device, and Storage Medium for Air Quality Spatial Inference* is officially granted! 
-- *2023.12*: &nbsp;🎉🎉 I co-founded one enterprise named "Metasequoia Intelligence" with [Dr. Jun Song](https://scholars.hkbu.edu.hk/en/persons/JUNSONG) from HKBU, serving as technical collaborator.
+- *2023.12*: &nbsp;🎉🎉 I co-founded one enterprise named "Metasequoia Intelligence" with [Dr. Jun Song](https://scholars.hkbu.edu.hk/en/persons/JUNSONG) from HKBU, as technical collaborator.
 
 <span class='anchor' id='academic-results'></span>
 # 📝 Academic Results
@@ -60,7 +60,7 @@ I am actively seeking interesting research opportunities and Ph.D. positions sta
 **Duration:** Jun. 2024 - Oct. 2024  
 
 - Imitation learning (IL) approaches succeed in fast adaptation for dozens of applications. However, traditional IL assumes the demonstrations comes from one specific expert policy, thus containing only one behavior pattern. This way may result in the lack of robustness of agent to deal with various and stochastic situations.
-- This work pioneers a new paradigm- learning from diverse behaviors. We proposed a novel quality-diversity imitation learning model to enable the agent to learn a broad set of skills from limited but diverse demonstrations. With multiple skills equipped, the agent can robustly deal with unseen and stochastic environment.
+- To address above issue, this work pioneers a new paradigm- learning from diverse behaviors. We proposed a novel quality-diversity imitation learning model to enable the agent to learn a broad set of skills from limited but diverse demonstrations. With multiple skills equipped, the agent can robustly deal with unseen and stochastic environment.
 
 </div>
 </div>
