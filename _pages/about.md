@@ -16,23 +16,23 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-# 👴 About me
+# 😊 About me
 
-Greetings! I am Zhenglin Wan, an undergraduate student from CUHKsz majoring in Data Science. You can find my CV at [CV](https://github.com/Carlos133386/Carlos133386.github.io/raw/main/cV%20(2).pdf). In campus, you can always find my at 320A, ChengDao building.
+Greetings! I am Zhenglin Wan, an undergraduate student from CUHKsz majoring in Data Science. You can find my CV at [CV](https://github.com/Carlos133386/Carlos133386.github.io/raw/main/cV%20(2).pdf). In campus, you can always find my at 320 A, ChengDao building.
 
 During high school, I was fortunate to win the first prize in the Chinese High School Mathematics Olympics, during which I developed a habit of independent learning. In my undergraduate studies, I achieved nearly all A grades (4.0/4.0) in my major-related courses (statistics, mathematics, and computer science). I often preferred independent study over traditional classes, which allowed me to save time and engage in challenging and interesting research projects. My primary research interests lie in:
 
 ## Enabling agents to make intelligent decisions:
 
--Reinforcement Learning (RL) allows agents to learn from their environment through trial and error (e.g., the remarkable AlphaGo, which defeated the Go master Shishi Li in 2016, was made possible by advancements in RL). However, in my view, many real-world tasks (e.g., picking up chopsticks from a table and grasping food) are far more complex for robots than Go. The state space for these "simple" tasks is significantly larger than that of Go in RL terms, and traditional RL algorithms (like PPO) require enormous sample sizes to converge, making learning extremely slow. This is surprising, given that humans naturally view these tasks as simple, thanks to our remarkable biological evolution. Therefore, we still face substantial challenges in enabling intelligent agents to perform even basic human tasks. My long-term goal is to explore novel, genuinely sample-efficient RL algorithms.
+- Reinforcement Learning (RL) allows agents to learn from their environment through trial and error (e.g., the remarkable AlphaGo, which defeated the Go master Shishi Li in 2016, was made possible by advancements in RL). However, in my view, many real-world tasks (e.g., picking up chopsticks from a table and grasping food) are far more complex for robots than Go. The state space for these "simple" tasks is significantly larger than that of Go in RL terms, and traditional RL algorithms (like PPO) require enormous sample sizes to converge, making learning extremely slow. This is surprising, given that humans naturally view these tasks as simple, thanks to our remarkable biological evolution. Therefore, we still face substantial challenges in enabling intelligent agents to perform even basic human tasks. My long-term goal is to explore novel, genuinely sample-efficient RL algorithms.
 
--Imitation Learning (IL) appears promising because it enables agents to mimic expert (or human) behavior directly, avoiding the aimless trial and error in the environment. Learning from demonstrations also aligns closely with human learning patterns. However, IL faces limitations when an agent encounters new scenarios not covered in the demonstrations. This issue mirrors a common question in human learning: “Can you generalize the knowledge from this lesson to solve new problems?” (In Chinese, this is known as “举一反三”). My interest lies in developing such robust IL approaches.
+- Imitation Learning (IL) appears promising because it enables agents to mimic expert (or human) behavior directly, avoiding the aimless trial and error in the environment. Learning from demonstrations also aligns closely with human learning patterns. However, IL faces limitations when an agent encounters new scenarios not covered in the demonstrations. This issue mirrors a common question in human learning: “Can you generalize the knowledge from this lesson to solve new problems?” (In Chinese, this is known as “举一反三”). My interest lies in developing such robust IL approaches.
 
--Both RL and IL represent purely data-driven approaches to agent learning and decision-making. However, I believe that human learning involves a much more complex system that includes memory, reflection, and reasoning. Currently, there is a substantial gap between RL/IL approaches and genuine intelligence. Large Language Model (LLM) agents have shown promise in bridging this gap, given their remarkable inference capabilities. However, as LLMs are largely "black boxes," their potential limitations and capacities remain unknown, which continues to fuel my curiosity and future research.
+- Both RL and IL represent purely data-driven approaches to agent learning and decision-making. However, I believe that human learning involves a much more complex system that includes memory, reflection, and reasoning. Currently, there is a substantial gap between RL/IL approaches and genuine intelligence. Large Language Model (LLM) agents have shown promise in bridging this gap, given their remarkable inference capabilities. However, as LLMs are largely "black boxes," their potential limitations and capacities remain unknown, which continues to fuel my curiosity and future research.
 
 ## Applications of intelligent agents:
 
--I have observed that many real-world problems in fields such as the environment, transportation, and urban planning can be modeled as decision-making processes. I am eager to adopt this novel perspective and apply it to offer fresh insights into these complex, multidisciplinary problems.
+- I have observed that many real-world problems in fields such as the environment, transportation, and urban planning can be modeled as decision-making processes. I am eager to adopt this novel perspective and apply it to offer fresh insights into these complex, multidisciplinary problems.
 
 During my undergraduate, I am lucky to work with [Dr. Jun Song](https://scholars.hkbu.edu.hk/en/persons/JUNSONG) and co-found one enterprise named "Metasequoia Intelligence" with him as the technical collaborator, driven by my research interest. Our aim is to utilizing the power of LLM agents to integrate data querying, data process, data visualization and intelligent decision making, thus providing comprehensive AI empowerment services for industry purposes.
 
@@ -47,7 +47,7 @@ I am actively seeking interesting research opportunities and Ph.D. positions sta
 - *2024.05*  &nbsp;🎉🎉 My invention patent *A Method, System, Terminal Device, and Storage Medium for Air Quality Spatial Inference* is officially granted! 
 - *2023.12*: &nbsp;🎉🎉 I co-founded one enterprise named "Metasequoia Intelligence" with [Dr. Jun Song](https://scholars.hkbu.edu.hk/en/persons/JUNSONG) from HKBU, serving as technical collaborator.
 
-<span class='anchor' id='publications-and-academic-projects'></span>
+<span class='anchor' id='academic-results'></span>
 # 📝 Academic Results
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Conference Under Review</div><img src='personal_page_sources/QD-IL/show.png' alt="sym" width="100%"></div></div>
