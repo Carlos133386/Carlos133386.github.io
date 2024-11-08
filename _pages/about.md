@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # 😊 About me
 
-Greetings! I am Zhenglin Wan, an undergraduate student from CUHKsz majoring in Data Science. You can find my CV at [CV](https://github.com/Carlos133386/Carlos133386.github.io/raw/main/cV%20(2).pdf). In campus, you can always find my at 320 A, ChengDao building (also known as Shenzhen key Laboratoryof loT Intelligent Systems and Wireless Network Technology: 深圳市物联网智能系统与无线网络技术重点实验室).
+Greetings! I am Zhenglin Wan, an undergraduate student from CUHKsz majoring in Data Science. You can find my CV at [CV](https://github.com/Carlos133386/Carlos133386.github.io/raw/main/cV%20(2).pdf). In campus, you can always find my at 320 A, ChengDao building (also known as Shenzhen key Laboratory of loT Intelligent Systems and Wireless Network Technology).
 
 During high school, I was fortunate to win the first prize in the Chinese High School Mathematics Olympics, during which I developed a habit of independent learning. In my undergraduate studies, I achieved nearly all A grades (4.0/4.0) in my major-related courses (statistics, mathematics, and computer science). I often preferred independent study over traditional classes, which allowed me to save time and engage in challenging and interesting research projects. My primary research interests lie in:
 
