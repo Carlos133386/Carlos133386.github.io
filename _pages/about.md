@@ -34,7 +34,9 @@ During high school, I was fortunate to win the first prize in the Chinese High S
 
 - I have observed that many real-world problems in fields such as the environment, transportation, and urban planning can be modeled as decision-making processes. I am eager to adopt this novel perspective and apply it to offer fresh insights into these complex, multidisciplinary problems.
 
-During my undergraduate, I am lucky to work with [Dr. Jun Song](https://scholars.hkbu.edu.hk/en/persons/JUNSONG) and co-found one enterprise named "Metasequoia Intelligence" with him as the technical collaborator, driven by my research interest. Our aim is to utilizing the power of LLM agents to integrate data querying, data process, data visualization and intelligent decision making, thus providing comprehensive AI empowerment services for industry purposes.
+---
+
+I have been an intern researcher at [Centre for Frontier AI Research](https://www.a-star.edu.sg/cfar), Agency for Science, Technology and Research [(A*STAR)](https://www.a-star.edu.sg/) at Singapore. During my undergraduate, I am lucky to work with [Dr. Jun Song](https://scholars.hkbu.edu.hk/en/persons/JUNSONG) and co-found one enterprise named "Metasequoia Intelligence" with him as the technical collaborator, driven by my research interest. Our aim is to utilizing the power of LLM agents to integrate data querying, data process, data visualization and intelligent decision making, thus providing comprehensive AI empowerment services for industry purposes. 
 
 I am actively seeking interesting research opportunities and Ph.D. positions starting in Fall 2025. If you are looking for a dedicated and self-motivated candidate, please DO contact me at vanzl3386@gmail.com or carlos@metaseq.ai !
 
